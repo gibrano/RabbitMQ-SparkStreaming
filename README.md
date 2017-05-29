@@ -5,8 +5,10 @@ You need install spark-2.1.0, golang 1.8.3, scala 2.11, sbt 1.0 and RabbitMQ 3.6
 
 Run
 
-`git clone `
+`git clone https://github.com/gibrano/RabbitMQ-SparkStreaming.git`
+
 `cd RabbitMQ-SparkStreaming`
+
 `sbt package`
 
 Then 
